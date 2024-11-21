@@ -52,14 +52,23 @@ For each model, the code outputs:
 - A **Summary Table** of accuracies for all models:
   ```
 Summary of Model Accuracies:
+
 Logistic Regression: Accuracy = 0.8490
+
 Naive Bayes: Accuracy = 0.8200
+
 Support Vector Machine: Accuracy = 0.8600
+
 Decision Tree: Accuracy = 0.8350
+
 Random Forest: Accuracy = 0.8700
+
 Extra Trees: Accuracy = 0.8500
+
 AdaBoost: Accuracy = 0.8400
+
 XGBoost: Accuracy = 0.8800
+
 CatBoost: Accuracy = 0.8750
 
 ### Purpose
