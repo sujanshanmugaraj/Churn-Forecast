@@ -1,6 +1,6 @@
 ### Description of the Code
 
-This code evaluates multiple machine learning models for a **customer churn prediction system** by training and testing each model, printing its performance metrics, and summarizing the results.
+This project evaluates multiple machine learning models for a **customer churn prediction system** by training and testing each model, printing its performance metrics, and summarizing the results.
 
 #### **Steps and Explanation:**
 
